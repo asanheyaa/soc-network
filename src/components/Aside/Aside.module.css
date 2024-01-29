@@ -1,0 +1,36 @@
+.aside {
+	background: rgba(177, 177, 2, 0.623);
+	padding: 15px;
+}
+
+.nav {}
+
+.list {}
+
+.item {}
+
+.item:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.link {
+	font-size: 30px;
+}
+
+.friends {
+	margin-top: 30px;
+
+}
+
+.friendsTitle {
+	font-weight: 700;
+	font-size: 20px;
+	color: rgba(1, 1, 153, 0.548);
+	margin-bottom: 15px;
+}
+
+.firendsItems {
+	display: flex;
+	gap: 10px;
+}
+

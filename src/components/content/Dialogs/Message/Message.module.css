@@ -1,0 +1,35 @@
+.messageIn, 
+.messageOut{
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.messageOut{
+	justify-content: flex-end;
+}
+
+.userAvatarIn{
+	width: 50px;
+	height: 50px;
+	background: rgba(3, 139, 139, 0.664);
+	border-radius: 50%;
+}
+.userAvatarOut{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background: rgba(148, 1, 25, 0.63);
+}
+.messageInText,
+.messageOutText{
+	max-width: 30%;
+	font-size: 20px;
+	
+}
+.messageOutText{}
+.textarea {
+	margin-top: 30px;
+	background: rgba(177, 177, 2, 0.623);
+	width: 100%;
+	padding: 15px;
+}

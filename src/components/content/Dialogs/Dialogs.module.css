@@ -1,0 +1,34 @@
+.dialogs{
+	display: grid;
+	grid-template-columns: 1fr 6fr;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 15px;
+	gap: 15px;
+}
+.users{
+	display: flex;
+	flex-direction: column;
+}
+
+.users{}
+.messages{
+	color: black;
+}
+.message{}
+
+.textarea {
+	margin-top: 30px;
+	background: rgba(177, 177, 2, 0.623);
+	width: 100%;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.buttonAddMessage{
+	background:#FFF;
+	font-size: 20px;
+	display: block;
+	margin-left: auto;
+	padding: 5px;
+	border: 1px solid #000;
+}

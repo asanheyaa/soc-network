@@ -1,0 +1,34 @@
+.header {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	background: blue;
+	
+}
+
+.container {
+	display: flex;
+	padding: 30px 15px;
+}
+
+.logo {}
+
+.menu {}
+
+.list {
+	display: flex;
+}
+.user{
+	margin-left:auto;
+}
+
+.item {}
+
+.link {}
+
+.search {}
+
+.notification {}
+
+.account {}
+
+.burger {}
