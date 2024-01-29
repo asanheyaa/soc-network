@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/soc-network/static/css/main.ded0cafa.css",
-    "main.js": "/soc-network/static/js/main.f6538e9e.js",
+    "main.js": "/soc-network/static/js/main.3b4e2086.js",
     "static/js/787.28cb0dcd.chunk.js": "/soc-network/static/js/787.28cb0dcd.chunk.js",
     "static/media/preloader.svg": "/soc-network/static/media/preloader.52f70e81f9b114939fc2bc1269fee950.svg",
     "index.html": "/soc-network/index.html",
     "main.ded0cafa.css.map": "/soc-network/static/css/main.ded0cafa.css.map",
-    "main.f6538e9e.js.map": "/soc-network/static/js/main.f6538e9e.js.map",
+    "main.3b4e2086.js.map": "/soc-network/static/js/main.3b4e2086.js.map",
     "787.28cb0dcd.chunk.js.map": "/soc-network/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ded0cafa.css",
-    "static/js/main.f6538e9e.js"
+    "static/js/main.3b4e2086.js"
   ]
 }
